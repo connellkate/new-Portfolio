@@ -1,0 +1,15 @@
+#header {
+  
+}
+
+.card {
+    width: 250px;
+    height: auto;
+    background-color: grey;
+}
+
+.card-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
